@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(219, 219, 219);
+}
+
+.nav {
+  background-color: #00bfa5;
+}
+
+.welcome {
+  padding: 10px;
+}
+
+.emphasize {
+  font-size: 16px;
+}
