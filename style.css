@@ -13,3 +13,19 @@ body {
 .emphasize {
   font-size: 16px;
 }
+
+.card {
+  position: relative;
+}
+
+.arrow-right {
+  width: 0;
+  height: 0;
+  border-top: 48px solid transparent;
+  border-bottom: 48px solid transparent;
+  border-left: 48px solid #00bfa5;
+  transform: rotate(-45deg);
+  position: absolute;
+  top: -31px;
+  right: -7px;
+}
