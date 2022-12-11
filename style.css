@@ -2,7 +2,8 @@ body {
   background-color: rgb(219, 219, 219);
 }
 
-.nav {
+.nav,
+.card-content {
   background-color: #00bfa5;
 }
 
